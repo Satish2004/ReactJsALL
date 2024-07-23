@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.jokeContainer{
+  border: 1px solid white;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 12px;
+  color: black;
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  width: 200px;
+  height: 400px;
+
+}
+.jokeContainer p{
+  background: rgb(174,192,238);
+  background: radial-gradient(circle, rgba(174,192,238,1) 0%, rgba(204,233,148,1) 100%);
+  padding: 10px;
+  border-radius: 12px;
+  color: blueviolet;
+
+}

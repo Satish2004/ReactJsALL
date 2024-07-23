@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0 70px 0 70px;
+  padding: 10px;
+
+}
+
+.ProductTab {
+  margin: 30px;
+  border: 2px solid rgb(10, 9, 9);
+  color: rgb(0, 0, 0);
+  border-radius: 19px;
+  max-width: 100%;
+
+  
+  white-space:initial;
+}
+.ProductTab h2 {
+  margin: 10px;
+  align-items: center;
+  text-align: center;
+}
+.ProductTab p,
+span {
+  margin: 10px;
+  align-items: center;
+  text-align: center;
+}

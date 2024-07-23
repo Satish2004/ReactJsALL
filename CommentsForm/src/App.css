@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.form{
+  border: 1px solid rgb(188, 165, 165);
+  padding: 14px;
+  border-radius: 12px;
+  background-color: rgb(168, 237, 237);
+  color: black;
+
+}
+.form label{
+  font-size: 1.2rem;
+  margin: 10px;
+}.form input {
+  align-items: center;
+  padding: 10px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+  margin: 0 0 10px 0;
+}
+.form textarea{
+  align-items: center;
+  padding: 10px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+
+}

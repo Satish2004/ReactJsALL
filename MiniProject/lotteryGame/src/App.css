@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.TicketContainer{
+  border: 1px  solid white;
+  border-radius: 13px;
+  padding: 12px;
+  font-style: italic;
+  font-size: 2rem;
+  color: rgb(0, 94, 128);
+  
+}

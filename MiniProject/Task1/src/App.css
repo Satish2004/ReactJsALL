@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  margin-top: 10px;
+  padding: 0;
+  font-family: serif;
+}
+.mainContainer {
+  text-align: center;
+  align-items: center;
+  margin-top: 20px;
+  border: 2px solid #e68a00;
+height: 300px;
+  border-radius: 12px;
+  width: 240px;
+}
+.containerTitle{
+  text-align: center;
+  align-items: center;
+}
+.heading {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.prices {
+  margin-top: 39%;
+  background:#e68a00;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  width: 100%;
+  height: 40px;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 30px;
+}
+.productLists {
+  display: flex;
+  justify-content: center;
+}
+.description{
+  margin-top: 20px;
+  padding: 10px;
+}
+.OldPrice{
+  text-decoration: line-through;
+}
+
+.newPrice{
+font-weight: 800;
+}
+.prices .OldPrice .newPrice{
+  margin-top: 30px;
+}

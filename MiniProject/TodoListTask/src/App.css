@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+input {
+  width: 70%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid yellow;
+  text-align: center;
+  align-items: center;
+  height: 100%;
+  color: rgb(131, 128, 128);
+  font-size: 1.2rem;
+  border-radius: 12px;
+  transition: 0.1s linear;
+}
+button {
+  padding: 10px;
+  margin-top: 20px;
+}
+ul li {
+  list-style: none;
+  font-size: 1.3rem;
+  align-items: center;
+  text-align: center;
+  color: rgb(254, 254, 254);
+  font-family: serif;
+  margin-left: -30px;
+}
+.ConatinerTodo {
+  border: 6px solid rgb(191, 156, 17);
+  width: 300px;
+  border-radius: 12px;
+}
+input:hover {
+  border: 1px solid rgb(42, 100, 248);
+}

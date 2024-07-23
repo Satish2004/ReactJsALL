@@ -1,0 +1,4 @@
+/* they are the three most basic layer of the taiwind when we use */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

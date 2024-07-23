@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.beforePrize{
+  text-decoration: line-through;
+  margin-right: 10px;
+  color: rgb(84, 82, 82);
+  font-size: 1.7rem;
+}
+.afterPrize{
+  font-size: 2rem;
+  
+}
